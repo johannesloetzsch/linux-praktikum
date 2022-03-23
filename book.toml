@@ -1,0 +1,6 @@
+[book]
+authors = ["Johannes Lötzsch"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Linux Praktikum"
