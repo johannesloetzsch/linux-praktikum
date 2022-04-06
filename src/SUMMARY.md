@@ -6,7 +6,11 @@
 
 
 # <!--Montag--> Installation \& Hello World
-- [Linux-Grundlagen](grundlagen.md)
+- [Linux-Grundlagen](grundlagen/inhalt.md)
+  - [Linux, Unix & FOSS](grundlagen/linux-unix-foss.md)
+  - [Mit freier Software Geld verdienen?](grundlagen/kommerzieller-einsatz.md)
+  - [Wo wird Linux verwendet?](grundlagen/einsatzbereiche.md)
+  - [Architektur](grundlagen/architektur.md)
 - [Installation von Linux-Systemen](installation.md)
   - [Grundlagen]()
     - [Distributionen](distributionen.md)
@@ -22,6 +26,7 @@
 
 # <!--Dienstag--> Shell \& Netzwerk
 - [Administration auf der Kommandozeile](kommandozeile.md)
+  - [Unix-Philosophie](shell/unix-philosophie.md)
 - [Verwalten des Dateisystems](dateisystem.md)
 - [Benutzer und Berechtigungen verwalten](berechtigungen.md)
 - [Netzwerk-Konfiguration](netzwerk.md)

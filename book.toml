@@ -4,3 +4,9 @@ language = "de"
 multilingual = false
 src = "src"
 title = "Linux Praktikum"
+[preprocessor]
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+[output]
+[output.html]
+additional-js =["mermaid.min.js", "mermaid-init.js"]
