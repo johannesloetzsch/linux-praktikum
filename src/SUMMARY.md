@@ -8,9 +8,14 @@
 # <!--Montag--> Installation \& Hello World
 - [Linux-Grundlagen](grundlagen.md)
 - [Installation von Linux-Systemen](installation.md)
-  - [Distributionen](distributionen.md)
-  - [Desktopumgebungen](desktops.md)
-  - [Partitionierung](partitionierung.md)
+  - [Grundlagen]()
+    - [Distributionen](distributionen.md)
+    - [Desktopumgebungen](desktops.md)
+    - [Partitionierung](partitionierung.md)
+    - [Paketquellen](installation/paketquellen.md)
+  - [Treiber]()
+    - [AHCI](installation/treiber/ahci.md)
+    - [Wifi](installation/treiber/wifi.md)
 
 > Zeit für Erstkontakt zu Linux<br/>
 > -> Einrichtung gängiger FOSS GUIs
