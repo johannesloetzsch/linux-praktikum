@@ -2,8 +2,8 @@
 
 ## Dienstleistungen
 
-* Beratung, Schulungen
 * Administration
+* Beratung, Schulungen
 * Software-Anpassungen
 
 ## Für Hardwareprodukte
@@ -15,6 +15,4 @@
 ## Als Grundlage für Dienste
 
 * Klassische Webanwendungen
-* Software as a service (SaaS)
-* Platform as a service (PaaS)
-* Infrastructure as a service (IaaS)
+* Software / Platform / Infrastructure as a service (SaaS / PaaS / IaaS)

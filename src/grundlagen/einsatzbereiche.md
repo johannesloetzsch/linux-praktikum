@@ -20,6 +20,11 @@
 * Router, NAS
 * Smart TVs, Festplattenrekorder, Satellitenreceiver und DVD-Player
 * Spielekonsolen (z.B. Steam Deck)
-* In-car entertainment [(z.B. Tesla)](https://www.autoblog.com/2014/04/12/tesla-model-s-owners-hack-their-cars-find-ubuntu/)
+* In-car Entertainment, Navi [(z.B. Tesla)](https://www.autoblog.com/2014/04/12/tesla-model-s-owners-hack-their-cars-find-ubuntu/)
+* Heimautomatisierung, Sensornetze, Einplatinencomputer (z.B. Raspberry Pi)
+
+## Containervirtualisierung
+
+* Docker, Kubernetes
 
 ## Desktop
