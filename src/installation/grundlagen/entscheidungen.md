@@ -24,7 +24,7 @@ flowchart TD
     Anwendungsfall ==> RaspberyPi
     RaspberyPi ==> Raspbian([Raspbian])
     deb ==> Live ==> AnwendungsfallLive{Anwendungsfall?}
-    AnwendungsfallLive ==> alles[alles etwas]
+    AnwendungsfallLive ==> alles[von allem etwas]
     alles ==> Knoppix([Knoppix])
     AnwendungsfallLive ==> Security[security tasks]
     Security ==> Kali([Kali])

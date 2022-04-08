@@ -4,6 +4,10 @@
 
 `find`
 
+`touch`, **`rm`**
+
+**`mkdir`**, `rmdir`
+
 **`mount`**, `umount`
 
 **`gparted`**, `parted`

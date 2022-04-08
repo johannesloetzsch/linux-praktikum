@@ -40,6 +40,7 @@
 - [Init am Beispiel Systemd](init.md)
 - [Live-Systeme, Datenrettung, Hacken](live-systeme.md)
 - [Verschlüsselung](verschlüsselung.md)
+- [Virtualisierung](virtualisierung.md)
 
 # <!--Donnerstag--> Entwicklung \& Ausblick
 - [Backups](backups.md)
