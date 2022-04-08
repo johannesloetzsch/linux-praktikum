@@ -8,6 +8,8 @@
 
 **`mkdir`**, `rmdir`
 
+**`lsblk`**
+
 **`mount`**, `umount`
 
 **`gparted`**, `parted`

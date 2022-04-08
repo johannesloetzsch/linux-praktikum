@@ -16,6 +16,8 @@
 
 ## [Power der Kommandozeile](https://de.wikipedia.org/wiki/Unix-Philosophie#Alles_ist_eine_Datei)
 
+**`|`**, **`>`**, **`>>`**
+
 **`cat`**, _`bat`_, `head`, `tail`, **`less`**, *`tee`*
 
 **`grep`**
