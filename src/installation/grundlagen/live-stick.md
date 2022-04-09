@@ -10,9 +10,6 @@ z.B. [debian-live-11.3.0-amd64-mate.iso](https://cdimage.debian.org/debian-cd/cu
 
 ```bash
 lsblk  ## Nachschauen unter welchem Gerätename der Stick verfügbar ist => /dev/sdX
-
-cd ~/Downloads
-ls *.iso
 ```
 
 ```bash

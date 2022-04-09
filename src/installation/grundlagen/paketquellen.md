@@ -8,3 +8,4 @@
 ![](./paketquellen/Synaptic-Paketquellen.png)
 ![](./paketquellen/Synaptic-Paketquellen-non-free.png)
 
+> /etc/apt/sources.list

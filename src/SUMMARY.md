@@ -20,9 +20,10 @@
       - [HowTo](installation/grundlagen/partitionierung/HOWTO.md)
     - [Paketquellen](installation/grundlagen/paketquellen.md)
     - [Bedienungsanleitung](installation/grundlagen/manual.md)
-  - [Treiber]()
+  - [Treiber](installation/treiber.md)
     - [AHCI](installation/treiber/ahci.md)
     - [Wifi](installation/treiber/wifi.md)
+  - [Linux + Windows / macOS](installation/multi-os.md)
 
 > Zeit für Erstkontakt zu Linux<br/>
 > -> Einrichtung gängiger FOSS GUIs

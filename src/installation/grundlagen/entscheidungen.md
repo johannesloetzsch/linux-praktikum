@@ -32,7 +32,7 @@ flowchart TD
     Privacy ==> Tails([Tails])
     Paketmanager --> nix
     nix --> NixOS([NixOS])
-    Paketmanager -.-> selber[selber Bauen]
+    Paketmanager -.-> selber[selber bauen]
     selber -.-> Arch([Arch])
     selber -.-> Gentoo([Gentoo])
 ```
@@ -46,6 +46,7 @@ flowchart TD
     CPU == 64-bit ==> amd64
     CPU -.-> armel
     CPU -.-> armhf
-    CPU -.-> power
+    CPU -.-> PowerPC
     CPU -.-> mips
+    CPU -.-> SPARC
 ```

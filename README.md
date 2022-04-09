@@ -3,6 +3,8 @@ Berufsschule Dresden der AFBB gGmbH
 # Zusatzqualifikation LINUX
 Einwöchiger Kurs für **Fachinformatiker** im **1. Ausbildungsjahr**
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="max-height:50vh; min-height:20vh"/>
+
 #### Schulungsunterlagen
 
 Dieses Dokument/Repository wurde mit [mdBook](https://rust-lang.github.io/mdBook/) erstellt.
