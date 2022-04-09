@@ -4,9 +4,16 @@ language = "de"
 multilingual = false
 src = "src"
 title = "Linux Praktikum"
+
+[build]
+build-dir = "docs"  ## expected by github-pages
+
 [preprocessor]
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
+
 [output]
 [output.html]
+git-repository-url = "https://github.com/johannesloetzsch/linux-praktikum/tree/main"
+edit-url-template = "https://github.com/johannesloetzsch/linux-praktikum/tree/main/{path}"
 additional-js =["mermaid.min.js", "mermaid-init.js"]
