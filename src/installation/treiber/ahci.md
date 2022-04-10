@@ -7,7 +7,7 @@ Lösungsweg:
 ```sh
 lshw -class storage
 
-dmesg | grep -i raid
+journalctl -k | grep -i raid
 ```
 
 Lösung:

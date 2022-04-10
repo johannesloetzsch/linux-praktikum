@@ -7,7 +7,7 @@ Lösungsweg:
 ```sh
 lshw -class network
 
-dmesg | grep -i wifi
+journalctl -k | grep -i wifi
 ```
 
 GUI Lösung:

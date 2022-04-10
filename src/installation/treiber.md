@@ -14,7 +14,7 @@
 ```bash
 lshw
 
-dmesg
+journalctl  ## oder dmesg
 ```
 
 ## Typische Probleme
