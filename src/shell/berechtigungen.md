@@ -18,9 +18,13 @@ drwxr-xr-x benutzer gruppe … ordnername
 
 **`sudo`**, **`su`**
 
-`adduser`
+**`adduser`**
+
+**`passwd`**
 
 `/etc/passwd`, `/etc/shadow`
+
+---
 
 ## [Gruppen](https://manpages.debian.org/bullseye/adduser/addgroup.8.de.html)
 
@@ -28,6 +32,10 @@ drwxr-xr-x benutzer gruppe … ordnername
 
 `/etc/group`
 
+---
+
 ## Dateiberechtigungen
 
 **`chmod`**, **`chown`**
+
+---

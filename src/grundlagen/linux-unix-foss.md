@@ -35,7 +35,8 @@ flowchart TB
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/150px-Firefox_logo%2C_2019.svg.png" style="max-height: 10vh"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Chromium_Material_Icon.svg/1024px-Chromium_Material_Icon.svg.png" style="max-height: 10vh"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/800px-VLC_Icon.svg.png" style="max-height: 10vh"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1920px-Logo_Blender.svg.png" style="max-height: 5vh"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1920px-Logo_Blender.svg.png" style="max-height: 4vh"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png" style="max-height: 8vh"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" style="max-height: 10vh"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ImageMagick_logo.svg/800px-ImageMagick_logo.svg.png" style="max-height: 10vh"/>
 <br/>

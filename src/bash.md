@@ -1,4 +1,4 @@
-# Skript-Programmierung mit Bash
+# [Skript-Programmierung mit Bash](https://de.wikibooks.org/wiki/Linux-Praxisbuch/_Shellprogrammierung)
 
 ```bash
 #!/usr/bin/bash
@@ -27,7 +27,7 @@ chmod +x $DATEI
 ## Variablen
 
 ```bash
-VARIABLE="wert"
+export VARIABLE="wert"
 
 echo $VARIABLE
 ```
@@ -39,6 +39,20 @@ echo $VARIABLE
 `$@`, `$#`
 
 `$?`
+
+## Arithmetische Ausdrücke
+
+```bash
+echo $((6*7))
+
+echo '1/3' | bc -l
+```
+
+## Sub-Shell
+
+```bash
+echo "Jetzt ist es $(date +%H:%M)"
+```
 
 ## Kontrollstrukuren
 

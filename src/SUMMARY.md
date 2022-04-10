@@ -29,12 +29,15 @@
 > -> Einrichtung gängiger FOSS GUIs
 
 # <!--Dienstag--> Shell \& Netzwerk
-- [Administration auf der Kommandozeile](kommandozeile.md)
+- [Administration auf der Kommandozeile](shell/kommandozeile.md)
+  - [Paketverwaltung](shell/paketverwaltung.md)
   - [Unix-Philosophie](shell/unix-philosophie.md)
-- [Verwalten des Dateisystems](dateisystem.md)
-- [Benutzer und Berechtigungen verwalten](berechtigungen.md)
-- [Netzwerk-Konfiguration](netzwerk.md)
-- [SSH](ssh.md)
+  - [Verarbeiten von Dateien](shell/datei-verarbeitung.md)
+  - [Prozessverwaltung](shell/prozessverwaltung.md)
+  - [Verwalten des Dateisystems](shell/dateisystem.md)
+  - [Benutzer und Berechtigungen verwalten](shell/berechtigungen.md)
+  - [Netzwerk-Konfiguration](shell/netzwerk.md)
+  - [SSH](shell/ssh.md)
 
 # <!--Mittwoch--> Architektur \& Sicherheit
 - [Bootloader und Bootprozess](bootprozess.md)
@@ -50,9 +53,5 @@
 - [Softwareentwicklung](entwicklung.md)
 - [Ausblick](ausblick.md)
 
-
-## Weiterführende Informationen
-
-[Spickzettel](cheatsheet.md)
 
 [Quellen \& Links](links.md)

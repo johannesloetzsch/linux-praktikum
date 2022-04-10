@@ -27,6 +27,6 @@ echo 1000 > /sys/class/backlight/intel_backlight/brightness
 ### [GPIO @RaspberryPi](https://www.elektronik-kompendium.de/sites/raspberry-pi/2202101.htm)
 ```bash
 echo 1 > /sys/class/gpio/gpio17/value
-```bash
+```
 
 ## /etc

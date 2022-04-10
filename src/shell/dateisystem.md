@@ -2,7 +2,7 @@
 
 **`pwd`**, **`ls`**, **`cd`**  <!--Wiederholung-->
 
-`find`
+`find`, *`tree`*
 
 `touch`, **`rm`**
 
@@ -13,3 +13,5 @@
 **`mount`**, `umount`
 
 **`gparted`**, `parted`
+
+---
