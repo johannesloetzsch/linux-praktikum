@@ -10,9 +10,14 @@ flowchart TB
 
 ## Geräteverschlüsselung
 
-### [Luks / Cryptsetup](https://manpages.debian.org/bullseye/cryptsetup-bin/cryptsetup.8.en.html)
+### Linux
 
-### [VeraCrypt](https://www.veracrypt.fr/)
+* [Luks / Cryptsetup](https://manpages.debian.org/bullseye/cryptsetup-bin/cryptsetup.8.en.html)
+
+### Windows
+
+* [BitLocker](https://support.microsoft.com/de-de/windows/aktivieren-der-ger%C3%A4teverschl%C3%BCsselung-0c453637-bc88-5f74-5105-741561aae838)
+* [VeraCrypt](https://www.veracrypt.fr/)
 
 ## Transportverschlüsselung
 

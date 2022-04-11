@@ -91,7 +91,7 @@ echo Maus | tr M H
 
 ```bash
 $PROGRAMM | sed "s/$SUCHMUSTER/$ERSETZUNG/g"
-sed -i "s/$SUCHMUSTER/$ERSETZUNG/g"  ## --in-place
+sed -i "s/$SUCHMUSTER/$ERSETZUNG/g" $DATEI  ## --in-place
 ```
 
 #### Aufgaben
@@ -100,4 +100,4 @@ sed -i "s/$SUCHMUSTER/$ERSETZUNG/g"  ## --in-place
 3. [ ] Wieviele Nutzer nutzen jeweils welche Standartshell?
 #### Zusatzaufgaben
 4. [ ] Welche der von `history` gelisteten Befehle wurden am häufigsten verwendet?
-5. [ ] `journalctl` listet als 5. durch Leerzeichen getrenntes Feld (vor dem Zeichen „[“) die „Unit“, von welcher der Logeintrag kommt. Berechne eine sortierte Liste, welche Unit wie viele Zeigen geloggt hat.
+5. [ ] `journalctl` listet als 5. durch Leerzeichen getrenntes Feld (vor dem Zeichen „[“) die „Unit“, von welcher der Logeintrag kommt. Berechne eine sortierte Liste, welche Unit wie viele Zeilen geloggt hat.
