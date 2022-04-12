@@ -31,13 +31,13 @@
 # <!--Dienstag--> Shell \& Netzwerk
 - [Administration auf der Kommandozeile](shell/kommandozeile.md)
   - [Paketverwaltung](shell/paketverwaltung.md)
+  - [Benutzer und Berechtigungen<!-- verwalten-->](shell/berechtigungen.md)
   - [Unix-Philosophie](shell/unix-philosophie.md)
   - [Verarbeiten von Dateien](shell/datei-verarbeitung.md)
   - [Prozessverwaltung](shell/prozessverwaltung.md)
-  - [Verwalten des Dateisystems](shell/dateisystem.md)
-  - [Benutzer und Berechtigungen verwalten](shell/berechtigungen.md)
   - [Netzwerk-Konfiguration](shell/netzwerk.md)
   - [SSH](shell/ssh.md)
+  - [Verwalten des Dateisystems](shell/dateisystem.md)
 
 # <!--Mittwoch--> Architektur \& Sicherheit
 - [Bootloader und Bootprozess](bootprozess.md)

@@ -6,6 +6,9 @@
 
 ```bash
 ls /dev
+
+cat /dev/input/mice*
+cat /dev/input/event*
 ```
 
 ## /proc und /sys
