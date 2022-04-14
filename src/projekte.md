@@ -1,46 +1,48 @@
 # Projekte
 
 ## Raspberry Pi
-- [ ] GPIO
-- [ ] …
+- [x] GPIO
+  - [x] Ampelschaltung
 
 ## Virtualisierung / Container
-- [ ] VirtualBox
-- [ ] qemu / kvm
-- [ ] (proxmox)
+- [x] VirtualBox
+- [x] qemu / kvm
 
 ## NAS
-- [ ] ssh-server
-  - [ ] scp per Shell und GUI
-  - [ ] ssh-keygen
-- [ ] (nextcloud)
+- [x] ssh-server
+  - [x] scp per Shell und GUI
+  - [x] ssh-keygen
+- [x] ftp
+- [x] (nextcloud)
 
 ## Webserver
 
-- [ ] LAMP (**L**inux+**A**pache+**M**ysql/**M**ariadb+**P**hp)
+- [x] LAMP (**L**inux+**A**pache+**M**ysql/**M**ariadb+**P**hp)
   - Alternative: Linux+Nginx+Sqlite/Postgres+*
+- [x] eigene **.html**-Dateien schreiben und ausliefern
 
 ### Nextcloud
 - [https://wiki.debianforum.de/OwnCloud](https://wiki.debianforum.de/OwnCloud)
-
-- Achtung kompliziert:
-  - [https://www.howtoforge.com/how-to-install-nextcloud-on-debian-11/](https://www.howtoforge.com/how-to-install-nextcloud-on-debian-11/)
 
 ### Pixelfed
 
 ## Verschlüsselung
 
+### LUKS / cryptsetup
+
+- [x] aus dem Installer
+- [x] für neues Gerät per Shell (cryptsetup luksFormat, luksOpen)
+
 ### GPG
 
-- [ ] per Shell und GUI (Mailclient, z.B. Thunderbird)
+- [x] per Shell und GUI (Mailclient, z.B. Thunderbird)
   - [https://wiki.debian.org/GnuPG](https://keyring.debian.org/creating-key.html)
   - [https://keyring.debian.org/creating-key.html](https://keyring.debian.org/creating-key.html)
 
 #### Pass (Passwortmanager)
 
-### LUKS / cryptsetup
-
-- [ ] aus dem Installer
-- [ ] für neues Gerät per Shell (cryptsetup luksFormat, luksOpen)
-
 ### Smartcards
+
+### One-Time-Pad
+
+- [x] XOr-Verschlüsselung
