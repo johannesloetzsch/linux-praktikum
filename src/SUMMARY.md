@@ -51,6 +51,7 @@
 - [Versionskontrolle am Beispiel git](versionskontrolle.md)
 - [Skript-Programmierung mit Bash](bash.md)
 - [Softwareentwicklung](entwicklung.md)
+- [Eigene Projekte](projekte.md)
 - [Ausblick](ausblick.md)
 
 
