@@ -15,6 +15,8 @@ apt upgrade
 
 apt search $PAKET
 
+apt show $PAKET
+
 apt install $PAKET
 ```
 
