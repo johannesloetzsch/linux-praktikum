@@ -23,6 +23,7 @@
 
 ### Nextcloud
 - [https://wiki.debianforum.de/OwnCloud](https://wiki.debianforum.de/OwnCloud)
+- [x] [https://computingforgeeks.com/how-to-install-and-configure-nextcloud-on-debian/](https://computingforgeeks.com/how-to-install-and-configure-nextcloud-on-debian/)
 
 ### Pixelfed
 
@@ -31,7 +32,7 @@
 ### LUKS / cryptsetup
 
 - [x] aus dem Installer
-- [x] für neues Gerät per Shell (cryptsetup luksFormat, luksOpen)
+- [x] für neues Gerät per Shell (`cryptsetup luksFormat`, `cryptsetup luksOpen`)
 
 ### GPG
 
