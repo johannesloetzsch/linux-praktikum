@@ -18,6 +18,8 @@ apt search $PAKET
 apt show $PAKET
 
 apt install $PAKET
+
+apt rm $PAKET
 ```
 
 ## [apt-file](https://wiki.ubuntuusers.de/apt-file/)
