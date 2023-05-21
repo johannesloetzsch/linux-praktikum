@@ -21,6 +21,6 @@
 <img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" style="height: 10vh"/>
 
 ## [Red Hat](https://www.redhat.com/), [Arch](https://www.archlinux.de/), [Gentoo](https://www.gentoo.org/)
-<img src="https://www.redhat.com/favicon.ico" style="height: 7vh"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" style="height: 7vh"/>
+<img src="https://upload.wikimedia.org/wikipedia/de/0/04/Red_Hat_2019_logo.svg" style="height: 7vh"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" style="height: 7vh"/>
 <img src="https://www.gentoo.org/assets/img/logo/gentoo-signet.svg" style="height: 7vh"/>
