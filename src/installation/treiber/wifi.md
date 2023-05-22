@@ -18,5 +18,5 @@ GUI Lösung:
 Shell Lösung:
 ```sh
 sudo apt install iwlwifi
-sudo rmmod iwlwifi && sudo modprobe iwlwifi
+sudo rmmod iwlwifi && sudo modprobe firmware-iwlwifi
 ```
