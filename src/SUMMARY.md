@@ -43,6 +43,7 @@
 - [Bootloader und Bootprozess](bootprozess.md)
 - [Init am Beispiel Systemd](init.md)
 - [Live-Systeme, Datenrettung, Hacken](live-systeme.md)
+  - [Hacking](hacking.md)
 - [Verschlüsselung](verschlüsselung.md)
 - [Virtualisierung](virtualisierung.md)
 
