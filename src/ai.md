@@ -1,0 +1,3 @@
+# AI
+
+npx aicmd forkbomb

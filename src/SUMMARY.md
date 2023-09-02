@@ -54,6 +54,7 @@
 - [Softwareentwicklung](entwicklung.md)
 - [Eigene Projekte](projekte.md)
 - [Ausblick](ausblick.md)
+  - [AI](ai.md)
 
 
 [Quellen \& Links](links.md)

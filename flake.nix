@@ -19,6 +19,7 @@
       shellHook = ''
         mdbook-mermaid install
         mdbook serve --port 3333 --open
+        exit
       '';
     };
   };
