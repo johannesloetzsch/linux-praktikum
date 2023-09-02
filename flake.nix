@@ -14,6 +14,15 @@
 
     legacyPackages.${system} = { inherit pkgs; };
 
+    devShells.${system}.ci = pkgs.mkShell {
+      nativeBuildInputs = with pkgs; [ mdbook mdbook-mermaid ];
+      shellHook = ''
+        mdbook-mermaid install
+        mdbook build
+        touch docs/.nojekyll
+        exit
+      '';
+    };
     devShell.${system} = pkgs.mkShell {
       nativeBuildInputs = with pkgs; [ mdbook mdbook-mermaid ];
       shellHook = ''
