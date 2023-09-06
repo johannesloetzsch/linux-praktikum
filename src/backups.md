@@ -6,6 +6,8 @@
 
 ![](https://wiki.gnome.org/Apps/DejaDup?action=AttachFile&do=get&target=main-window-43-0.png)
 
+### oder [Pika](https://gitlab.gnome.org/World/pika-backup)
+
 ## Shell
 
 ### [duplicity](http://duplicity.nongnu.org/)
