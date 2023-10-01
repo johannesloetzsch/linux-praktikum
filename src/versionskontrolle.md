@@ -3,27 +3,44 @@
 ```bash
 git init
 
+git status
+
 git add $FILE
 
 git commit
 
 git log
 
-git status
+git config
+```
+
+```bash
+git clone
+
+git push
+
+git pull
 ```
 
 ```bash
 git branch
 
 git checkout
+git switch
 
 git merge
 ```
 
 ```bash
-git clone
+git rebase
 
-git pull
-
-gut push
+git cherry-pick
 ```
+
+## [https://ohmygit.org](https://ohmygit.org)
+
+## Server?
+* Nicht nötig, aber trivial möglich :)
+
+## Grafische Oberflächen
+
