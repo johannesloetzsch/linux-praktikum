@@ -18,7 +18,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" style="height: 7vh"/>
 
 ## [NixOS](https://nixos.org/)
-<img src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg" style="height: 10vh"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg" style="height: 10vh"/>
 
 ## [Red Hat](https://www.redhat.com/), [Arch](https://www.archlinux.de/), [Gentoo](https://www.gentoo.org/)
 <img src="https://upload.wikimedia.org/wikipedia/de/0/04/Red_Hat_2019_logo.svg" style="height: 7vh"/>
