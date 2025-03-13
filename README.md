@@ -5,6 +5,8 @@ Einwöchiger Kurs für **Fachinformatiker** im **1. Ausbildungsjahr**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="max-height:50vh; min-height:20vh"/>
 
+<img src="https://files.mastodon.social/media_attachments/files/114/007/930/866/743/505/original/3d68a7e1c08d6a55.png" style="height:80%;"/>
+
 #### Schulungsunterlagen
 
 Dieses Dokument/Repository wurde mit [mdBook](https://rust-lang.github.io/mdBook/) erstellt.

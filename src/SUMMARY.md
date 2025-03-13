@@ -2,6 +2,8 @@
 
 [Einleitung](../README.md)
 
+[FOSS in der Ausbildung](afbb.md)
+
 [Gliederung](./SUMMARY.md)
 
 
