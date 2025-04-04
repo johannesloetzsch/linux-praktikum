@@ -43,6 +43,7 @@
 
 # <!--Mittwoch--> Architektur \& Sicherheit
 - [Bootloader und Bootprozess](bootprozess.md)
+  - [Ventoy](ventoy.md)
 - [Init am Beispiel Systemd](init.md)
 - [Live-Systeme, Datenrettung, Hacken](live-systeme.md)
   - [Hacking](hacking.md)

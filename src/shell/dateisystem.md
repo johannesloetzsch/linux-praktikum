@@ -15,3 +15,5 @@
 **`gparted`**, `parted`
 
 ---
+
+> Deutlich mehr Details: „[Der Linux Storage-stack](https://media.ccc.de/v/clt25-134-so-funktioniert-der-linux-storage-stack)“
