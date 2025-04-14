@@ -27,9 +27,9 @@ cat /sys/class/backlight/intel_backlight/max_brightness
 echo 1000 > /sys/class/backlight/intel_backlight/brightness
 ```
 
-### [GPIO @RaspberryPi](https://www.elektronik-kompendium.de/sites/raspberry-pi/2202101.htm)
+### [GPIO @RaspberryPi](https://johannesloetzsch.github.io/LF7/pi.html)
 ```bash
-echo 1 > /sys/class/gpio/gpio17/value
+echo 1 > /sys/class/gpio/gpio514/value
 ```
 
 ## /etc

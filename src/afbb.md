@@ -25,6 +25,8 @@ Die folgenden Empfehlungen sind Tools, die in Nerdkreisen gerne eingesetzt werde
 | LF7, **LF8**, LF10 | [pipenv](https://pypi.org/project/pipenv/) | [pip](https://pypi.org/project/pip/) + [venv](https://docs.python.org/3/library/venv.html) „for humans“ |
 | **LF7** | [PlatformIO Core (CLI)](https://docs.platformio.org/en/latest/core/index.html) | [PlatformIO](https://platformio.org/) is an IDE for embedded development. Only the `pio` CLI is required.
 | **LF7** | [Arduino IDE](https://www.arduino.cc/en/software) | IDE for [Arduino](https://en.wikipedia.org/wiki/Arduino) |
+| **LF8** | [jq](https://github.com/jqlang/jq) | JSON processor |
+| **LF8** | [xmllint](https://github.com/mmr/xmllint) (libxml2) | lint and schema validate XML files |
 | **LF9** | [coreemu](https://coreemu.github.io/core/index.html) | tool for building virtual networks |
 | **ZQ Linux, LF4, LF9**, LF3-LF12 | [SSH-Client](shell/ssh.md) ([OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh-overview) oder [PuTTY](https://www.putty.org/)) | remote login, shell, desktop and tunneling |
 | **ZQ Linux**, LF3-LF12 | Linux oder [WSL](https://learn.microsoft.com/en-us/linux/install) | |

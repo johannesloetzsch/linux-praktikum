@@ -57,6 +57,8 @@
 - [Softwareentwicklung](entwicklung.md)
 - [Eigene Projekte](projekte.md)
 - [Ausblick](ausblick.md)
+  - [Raspberry Pi](pi.md) 
+  - [Python](python.md)
   - [AI](ai.md)
 
 
