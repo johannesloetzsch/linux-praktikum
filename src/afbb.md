@@ -17,6 +17,7 @@ Die folgenden Empfehlungen sind Tools, die in Nerdkreisen gerne eingesetzt werde
 | **LF3**, LF9 | [ipcalc](https://gitlab.com/ipcalc/ipcalc#examples) | assisting in network calculations |
 | **LF3**, LF4, LF9, LF11b | [jNetMap](https://rakudave.ch/jnetmap) | jNetMap helps you to keep an eye on your network. You can draw a graphical representation of your network, and jNetMap will periodically check if the devices are still up or a service is still running. |
 | **LF3**, LF9, LF11b | [Wireshark](https://www.wireshark.org/), ([tcpdump](https://www.tcpdump.org/)) | Network protocol analyzer |
+| **LF3**, LF9 | [Filius](https://www.lernsoftware-filius.de/) | Lernanwendung zu Rechnernetzen |
 | **LF3**-LF12 | ping, traceroute/tracepath, dig, curl | basic network debugging utils |
 | **LF7**, LF8, LF10, LF11, **LF12** | [Git](https://git-scm.com/) | distributed version control system |
 | **LF7**, LF8, LF10 | [Python](https://www.python.org) | script programming language |

@@ -3,6 +3,7 @@
 ## Raspberry Pi
 - [x] GPIO
   - [x] Ampelschaltung
+  - [x] [Pi-hole](https://pi-hole.net/)
 
 ## Virtualisierung / Container
 - [x] VirtualBox
