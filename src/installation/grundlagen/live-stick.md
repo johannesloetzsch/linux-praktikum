@@ -2,7 +2,7 @@
 
 [Download](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/) eines `iso-hybrid`-Images
 
-z.B. [debian-live-12.10.0-amd64-mate.iso](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-mate.iso)
+z.B. [debian-live-13.1.0-amd64-mate.iso](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-13.1.0-amd64-mate.iso)
 
 ## [auf USB-Stick kopieren](https://www.debian.org/CD/faq/index.en.html#write-usb)
 
