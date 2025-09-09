@@ -53,14 +53,17 @@ $PROGRAMM | grep -C $NUM $SUCHBEGRIFF  ## --context
 ```
 
 #### Aufgaben
-1. In welcher Datei (unterhalb von `/etc`) wird das WLAN-Passwort gespeichert?
-2. [ ] Filter aus `/var/log/dpkg.log` alle Zeilen, die beschreiben, wann welches Paket installiert wurde.
-   - [ ] Schreibe das Ergebnis in eine Datei.
-3. [ ] Welche Pakete waren die 10 zuerst installierten?
+1. [ ] Filtern Sie aus `/var/log/dpkg.log` alle Zeilen, die beschreiben, wann welches Paket installiert wurde.
+   * [ ] Schreibe das Ergebnis in eine Datei.
+2. [ ] Welche Pakete waren die 10 zuerst installierten?
+3. [ ] In welcher Datei (unterhalb von `/etc`) wird die WLAN-Konfiguration gespeichert?
+   * Hinweis: Überlegen Sie sich, welche Zeichenketten in der Konfiguration stehen müssten.
+
 #### Zusatzaufgaben
-4. [ ] Was waren die ersten auf der Kommandozeile eingegebenen Befehle? Verarbeite dafür die Ausgabe von `history`.
-5. [ ] In welche Datei speichert `history`? Findest du die entsprechende Zeile der manpage per `grep`?
-6. [ ] Wann erhielt das System zuletzt eine IP-Adresse per DHCP? Als Administrator kannst du die logs in `/var/log/syslog` oder mit dem Befehl `journalctl` finden.
+4. [ ] Was waren die ersten auf der Kommandozeile eingegebenen Befehle? Verarbeiten Sie dafür die Ausgabe des Befehls `history`.
+5. [ ] In welche Datei speichert `history`? Finden Sie die entsprechende Zeile der manpage per `grep`?
+6. Als Administrator kann man Log-Dateien mit dem Befehl `journalctl` anzeigen.
+   * [ ] Versuchen Sie herauszufinden, wann das System zuletzt eine IP-Adresse per DHCP erhalten hat? 
 
 
 ### Tools für Fortgeschrittene
@@ -95,9 +98,10 @@ sed -i "s/$SUCHMUSTER/$ERSETZUNG/g" $DATEI  ## --in-place
 ```
 
 #### Aufgaben
-1. [ ] Welche Nutzer (in `/etc/passwd`) haben `bash` als Standartshell?
-2. [ ] Berechne eine Liste, in der jede verwendete Standartshells genau genau einmal gelistet wird.
-3. [ ] Wieviele Nutzer nutzen jeweils welche Standartshell?
+1. [ ] Welche Nutzer (in `/etc/passwd`) haben `bash` als Standardshell?
+2. [ ] Berechnen Sie eine Auflistung, in der jede verwendete Standardshell genau genau einmal gelistet wird.
+3. [ ] Wieviele Nutzer nutzen jeweils welche Standardshell?
+
 #### Zusatzaufgaben
 4. [ ] Welche der von `history` gelisteten Befehle wurden am häufigsten verwendet?
-5. [ ] `journalctl` listet als 5. durch Leerzeichen getrenntes Feld (vor dem Zeichen „[“) die „Unit“, von welcher der Logeintrag kommt. Berechne eine sortierte Liste, welche Unit wie viele Zeilen geloggt hat.
+5. [ ] `journalctl` listet als 5. durch Leerzeichen getrenntes Feld (vor dem Zeichen „[“) die „Unit“ (Dienst), von welcher der Logeintrag kommt. Berechnen Sie eine sortierte Liste, welche Unit wie viele Zeilen geloggt hat.

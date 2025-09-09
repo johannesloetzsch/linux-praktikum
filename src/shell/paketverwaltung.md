@@ -11,7 +11,7 @@
 ```bash
 apt update
 
-apt upgrade
+apt upgrade  ## Kann etwas dauern, wenn die Internetverbindung nicht die schnellste ist…
 
 apt search $PAKET
 
@@ -37,9 +37,9 @@ dpkg -i $DATEI.deb  ## --install
 ```
 
 #### Aufgaben
-1. [ ] Installiere die Pakete `figlet`, `cmatrix` und `sl`.
-   - [ ] Probiere sie aus.
+1. [ ] Installieren Sie die Pakete `figlet`, `lolcat`, `cmatrix` und `sl`.
+   - [ ] Probiere Sie die Befehle aus.
 #### Zusatzaufgaben
 2. [ ] In welchem Paketen sind `cowthink` und `cacademo`?
-   - [ ] Installiere sie.
-3. [ ] Installiere alle verfügbaren updates.
+   - [ ] Installieren Sie die Pakete.
+3. [ ] Installieren Sie alle verfügbaren updates.
