@@ -1,13 +1,18 @@
 # Projekte
 
-## Raspberry Pi
+## [Raspberry Pi](https://johannesloetzsch.github.io/LF7/pi.html)
 - [x] GPIO
-  - [x] Ampelschaltung
   - [x] [Pi-hole](https://pi-hole.net/)
+  - [x] Ampelschaltung
+  - [ ] Smart-Home
+    - [Home Assistant](https://www.home-assistant.io/)
+    - [ESPHome](https://esphome.io/)
 
 ## Virtualisierung / Container
 - [x] VirtualBox
 - [x] qemu / kvm
+- [ ] HyperV
+- [ ] [UTM](https://en.wikipedia.org/wiki/UTM_(software))
 
 ## NAS
 - [x] ssh-server
@@ -20,11 +25,14 @@
 
 - [x] LAMP (**L**inux+**A**pache+**M**ysql/**M**ariadb+**P**hp)
   - Alternative: Linux+Nginx+Sqlite/Postgres+*
-- [x] eigene **.html**-Dateien schreiben und ausliefern
+- [x] eigene [**.html**-Dateien](https://www.w3schools.com/) schreiben und ausliefern
 
 ### Nextcloud
-- [https://wiki.debianforum.de/OwnCloud](https://wiki.debianforum.de/OwnCloud)
-- [x] [https://computingforgeeks.com/how-to-install-and-configure-nextcloud-on-debian/](https://computingforgeeks.com/how-to-install-and-configure-nextcloud-on-debian/)
+- [x] [mit Docker](https://hub.docker.com/_/nextcloud)
+
+### Mediaserver
+- [Plex](https://www.plex.tv/)
+- [Jellyfin](https://jellyfin.org/)
 
 ### Pixelfed
 
@@ -48,3 +56,7 @@
 ### One-Time-Pad
 
 - [x] XOr-Verschlüsselung
+
+## [Python Grundlagen](https://johannesloetzsch.github.io/python-tutorial/getting_started.html)
+- [python turtle](https://johannesloetzsch.github.io/python-tutorial/turtle.html)
+  - [TurtleStitch](https://turtlestitch.org/categories/)
